@@ -1,0 +1,121 @@
+product_id,name,description,price,category,stock_count,sales_last_week,expiry_date
+1,Fresh Produce Item 1,High quality fresh produce product.,3.19,Fresh Produce,75,31,2026-03-14
+2,Dairy Item 2,High quality dairy product.,22.75,Dairy,178,94,2026-03-25
+3,Fresh Produce Item 3,High quality fresh produce product.,18.74,Fresh Produce,13,3,2026-03-12
+4,Bakery Item 4,High quality bakery product.,8.9,Bakery,159,3,2026-03-19
+5,Bakery Item 5,High quality bakery product.,22.19,Bakery,184,69,2026-03-17
+6,Bakery Item 6,High quality bakery product.,14.85,Bakery,76,0,2026-03-23
+7,Dairy Item 7,High quality dairy product.,21.7,Dairy,92,35,2026-03-13
+8,Bakery Item 8,High quality bakery product.,28.82,Bakery,91,13,2026-03-12
+9,Snacks Item 9,High quality snacks product.,5.16,Snacks,93,77,2026-03-15
+10,Pantry Staples Item 10,High quality pantry staples product.,22.57,Pantry Staples,142,15,2026-03-25
+11,Snacks Item 11,High quality snacks product.,4.67,Snacks,80,80,2026-03-20
+12,Beverages Item 12,High quality beverages product.,18.38,Beverages,185,8,2026-03-11
+13,Bakery Item 13,High quality bakery product.,23.76,Bakery,25,29,2026-03-24
+14,Fresh Produce Item 14,High quality fresh produce product.,12.95,Fresh Produce,121,81,2026-03-24
+15,Beverages Item 15,High quality beverages product.,6.97,Beverages,95,26,2026-03-21
+16,Frozen Item 16,High quality frozen product.,21.8,Frozen,179,82,2026-03-12
+17,Dairy Item 17,High quality dairy product.,17.19,Dairy,67,20,2026-03-18
+18,Snacks Item 18,High quality snacks product.,9.92,Snacks,168,88,2026-03-19
+19,Bakery Item 19,High quality bakery product.,21.33,Bakery,19,29,2026-03-24
+20,Pantry Staples Item 20,High quality pantry staples product.,24.64,Pantry Staples,107,34,2026-03-12
+21,Bakery Item 21,High quality bakery product.,27.61,Bakery,150,91,2026-03-16
+22,Bakery Item 22,High quality bakery product.,20.52,Bakery,106,82,2026-03-18
+23,Dairy Item 23,High quality dairy product.,9.78,Dairy,68,95,2026-03-19
+24,Frozen Item 24,High quality frozen product.,23.04,Frozen,114,74,2026-03-17
+25,Beverages Item 25,High quality beverages product.,8.53,Beverages,40,65,2026-03-18
+26,Fresh Produce Item 26,High quality fresh produce product.,23.28,Fresh Produce,33,19,2026-03-21
+27,Dairy Item 27,High quality dairy product.,24.28,Dairy,113,76,2026-03-12
+28,Snacks Item 28,High quality snacks product.,12.99,Snacks,124,67,2026-03-15
+29,Pantry Staples Item 29,High quality pantry staples product.,21.21,Pantry Staples,34,87,2026-03-25
+30,Frozen Item 30,High quality frozen product.,23.64,Frozen,92,14,2026-03-15
+31,Snacks Item 31,High quality snacks product.,6.85,Snacks,5,92,2026-03-25
+32,Frozen Item 32,High quality frozen product.,29.23,Frozen,200,22,2026-03-19
+33,Fresh Produce Item 33,High quality fresh produce product.,26.44,Fresh Produce,81,81,2026-03-19
+34,Bakery Item 34,High quality bakery product.,6.7,Bakery,200,20,2026-03-19
+35,Pantry Staples Item 35,High quality pantry staples product.,18.97,Pantry Staples,130,2,2026-03-12
+36,Beverages Item 36,High quality beverages product.,26.66,Beverages,83,30,2026-03-11
+37,Bakery Item 37,High quality bakery product.,26.65,Bakery,25,10,2026-03-22
+38,Household Item 38,High quality household product.,24.94,Household,199,68,2026-03-23
+39,Dairy Item 39,High quality dairy product.,6.03,Dairy,126,70,2026-03-13
+40,Frozen Item 40,High quality frozen product.,17.01,Frozen,160,54,2026-03-14
+41,Bakery Item 41,High quality bakery product.,22.11,Bakery,107,85,2026-03-21
+42,Beverages Item 42,High quality beverages product.,14.55,Beverages,137,57,2026-03-12
+43,Bakery Item 43,High quality bakery product.,8.68,Bakery,91,2,2026-03-20
+44,Bakery Item 44,High quality bakery product.,18.68,Bakery,6,9,2026-03-22
+45,Pantry Staples Item 45,High quality pantry staples product.,8.8,Pantry Staples,13,42,2026-03-12
+46,Bakery Item 46,High quality bakery product.,10.16,Bakery,129,27,2026-03-19
+47,Dairy Item 47,High quality dairy product.,22.39,Dairy,151,73,2026-03-18
+48,Bakery Item 48,High quality bakery product.,24.08,Bakery,109,24,2026-03-12
+49,Fresh Produce Item 49,High quality fresh produce product.,20.62,Fresh Produce,95,54,2026-03-17
+50,Household Item 50,High quality household product.,26.26,Household,18,86,2026-03-21
+51,Fresh Produce Item 51,High quality fresh produce product.,4.17,Fresh Produce,191,43,2026-03-23
+52,Fresh Produce Item 52,High quality fresh produce product.,9.34,Fresh Produce,53,68,2026-03-18
+53,Dairy Item 53,High quality dairy product.,14.1,Dairy,76,59,2026-03-14
+54,Fresh Produce Item 54,High quality fresh produce product.,14.69,Fresh Produce,145,12,2026-03-11
+55,Pantry Staples Item 55,High quality pantry staples product.,29.15,Pantry Staples,197,30,2026-03-13
+56,Snacks Item 56,High quality snacks product.,15.86,Snacks,59,51,2026-03-25
+57,Pantry Staples Item 57,High quality pantry staples product.,7.03,Pantry Staples,5,49,2026-03-15
+58,Household Item 58,High quality household product.,10.34,Household,183,93,2026-03-23
+59,Household Item 59,High quality household product.,6.76,Household,80,27,2026-03-11
+60,Pantry Staples Item 60,High quality pantry staples product.,23.07,Pantry Staples,19,6,2026-03-20
+61,Household Item 61,High quality household product.,16.33,Household,140,20,2026-03-11
+62,Fresh Produce Item 62,High quality fresh produce product.,25.91,Fresh Produce,22,76,2026-03-12
+63,Bakery Item 63,High quality bakery product.,13.6,Bakery,150,31,2026-03-20
+64,Pantry Staples Item 64,High quality pantry staples product.,19.53,Pantry Staples,112,84,2026-03-20
+65,Beverages Item 65,High quality beverages product.,28.2,Beverages,57,85,2026-03-22
+66,Beverages Item 66,High quality beverages product.,9.06,Beverages,106,16,2026-03-21
+67,Frozen Item 67,High quality frozen product.,15.07,Frozen,197,9,2026-03-11
+68,Household Item 68,High quality household product.,19.58,Household,149,12,2026-03-12
+69,Bakery Item 69,High quality bakery product.,16.41,Bakery,38,44,2026-03-25
+70,Fresh Produce Item 70,High quality fresh produce product.,26.68,Fresh Produce,99,36,2026-03-13
+71,Household Item 71,High quality household product.,25.43,Household,185,38,2026-03-20
+72,Pantry Staples Item 72,High quality pantry staples product.,20.87,Pantry Staples,146,38,2026-03-25
+73,Fresh Produce Item 73,High quality fresh produce product.,28.32,Fresh Produce,39,33,2026-03-12
+74,Fresh Produce Item 74,High quality fresh produce product.,22.92,Fresh Produce,44,34,2026-03-15
+75,Bakery Item 75,High quality bakery product.,22.23,Bakery,57,87,2026-03-21
+76,Frozen Item 76,High quality frozen product.,16.4,Frozen,69,6,2026-03-12
+77,Snacks Item 77,High quality snacks product.,25.31,Snacks,16,0,2026-03-16
+78,Dairy Item 78,High quality dairy product.,20.02,Dairy,72,20,2026-03-22
+79,Household Item 79,High quality household product.,17.67,Household,114,71,2026-03-11
+80,Fresh Produce Item 80,High quality fresh produce product.,4.57,Fresh Produce,181,19,2026-03-19
+81,Pantry Staples Item 81,High quality pantry staples product.,25.45,Pantry Staples,154,70,2026-03-13
+82,Snacks Item 82,High quality snacks product.,6.0,Snacks,83,46,2026-03-25
+83,Pantry Staples Item 83,High quality pantry staples product.,27.22,Pantry Staples,58,87,2026-03-14
+84,Fresh Produce Item 84,High quality fresh produce product.,12.23,Fresh Produce,148,52,2026-03-20
+85,Dairy Item 85,High quality dairy product.,27.96,Dairy,65,20,2026-03-23
+86,Dairy Item 86,High quality dairy product.,26.74,Dairy,11,22,2026-03-22
+87,Beverages Item 87,High quality beverages product.,24.02,Beverages,110,85,2026-03-24
+88,Bakery Item 88,High quality bakery product.,9.84,Bakery,184,13,2026-03-17
+89,Pantry Staples Item 89,High quality pantry staples product.,26.11,Pantry Staples,61,25,2026-03-24
+90,Household Item 90,High quality household product.,12.12,Household,63,28,2026-03-11
+91,Bakery Item 91,High quality bakery product.,13.46,Bakery,76,8,2026-03-23
+92,Frozen Item 92,High quality frozen product.,12.16,Frozen,135,51,2026-03-21
+93,Beverages Item 93,High quality beverages product.,28.33,Beverages,34,33,2026-03-13
+94,Frozen Item 94,High quality frozen product.,3.55,Frozen,157,55,2026-03-16
+95,Beverages Item 95,High quality beverages product.,14.5,Beverages,135,14,2026-03-17
+96,Bakery Item 96,High quality bakery product.,9.5,Bakery,186,55,2026-03-11
+97,Bakery Item 97,High quality bakery product.,12.52,Bakery,22,85,2026-03-25
+98,Beverages Item 98,High quality beverages product.,19.64,Beverages,174,15,2026-03-22
+99,Frozen Item 99,High quality frozen product.,16.45,Frozen,175,52,2026-03-16
+100,Snacks Item 100,High quality snacks product.,21.67,Snacks,146,16,2026-03-14
+101,Snacks Item 101,High quality snacks product.,20.79,Snacks,102,86,2026-03-22
+102,Dairy Item 102,High quality dairy product.,19.43,Dairy,82,51,2026-03-19
+103,Pantry Staples Item 103,High quality pantry staples product.,10.86,Pantry Staples,58,55,2026-03-23
+104,Beverages Item 104,High quality beverages product.,15.29,Beverages,118,86,2026-03-14
+105,Household Item 105,High quality household product.,24.33,Household,193,21,2026-03-21
+106,Fresh Produce Item 106,High quality fresh produce product.,10.3,Fresh Produce,174,81,2026-03-20
+107,Beverages Item 107,High quality beverages product.,5.07,Beverages,197,30,2026-03-21
+108,Frozen Item 108,High quality frozen product.,8.68,Frozen,55,18,2026-03-11
+109,Pantry Staples Item 109,High quality pantry staples product.,9.23,Pantry Staples,126,78,2026-03-24
+110,Fresh Produce Item 110,High quality fresh produce product.,15.02,Fresh Produce,166,73,2026-03-14
+111,Snacks Item 111,High quality snacks product.,16.1,Snacks,67,18,2026-03-21
+112,Pantry Staples Item 112,High quality pantry staples product.,27.05,Pantry Staples,32,99,2026-03-17
+113,Bakery Item 113,High quality bakery product.,7.34,Bakery,183,66,2026-03-18
+114,Pantry Staples Item 114,High quality pantry staples product.,17.83,Pantry Staples,36,58,2026-03-13
+115,Household Item 115,High quality household product.,20.86,Household,148,76,2026-03-16
+116,Household Item 116,High quality household product.,19.35,Household,189,64,2026-03-17
+117,Household Item 117,High quality household product.,27.17,Household,195,60,2026-03-18
+118,Frozen Item 118,High quality frozen product.,23.17,Frozen,168,35,2026-03-23
+119,Household Item 119,High quality household product.,19.74,Household,75,56,2026-03-12
+120,Frozen Item 120,High quality frozen product.,8.95,Frozen,90,40,2026-03-25

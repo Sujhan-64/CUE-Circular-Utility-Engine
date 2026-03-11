@@ -70,3 +70,34 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+
+## Circular Utility Engine Python API
+
+A production-style FastAPI backend is included to recommend near-expiry circular deals.
+
+### Backend structure
+
+- `api/` FastAPI application and endpoints
+- `models/` RandomForest promotion-priority model (saved with `joblib`)
+- `recommender/` content-based recommendation engine
+- `utils/` data loading/mock generation + dynamic pricing utilities
+- `data/` generated datasets (`products.csv`, `users.csv`, `users.ts`)
+
+### Install dependencies
+
+```bash
+pip install pandas numpy scikit-learn fastapi uvicorn joblib
+```
+
+### Run the API
+
+```bash
+uvicorn api.main:app --reload
+```
+
+### Endpoints
+
+- `GET /recommendations/{user_id}`: top 10 near-expiry recommendations for a user
+- `GET /circular-deals`: all near-expiry discounted products
+
+Datasets are auto-generated if missing. The service always checks if files already exist before generating new mock data.
