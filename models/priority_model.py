@@ -22,7 +22,7 @@ class PromotionPriorityModel:
     def _feature_frame(self, products: pd.DataFrame) -> pd.DataFrame:
         frame = products.copy()
         frame["expiry_date"] = pd.to_datetime(frame["expiry_date"], errors="coerce")
-        frame["days_to_expiry"] = (frame["expiry_date"] - pd.Timestamp.utcnow().normalize()).dt.days
+        frame["days_to_expiry"] = (frame["expiry_date"] - pd.Timestamp.now().normalize()).dt.days
         frame["days_to_expiry"] = frame["days_to_expiry"].clip(lower=0).fillna(14)
         frame["stock_count"] = frame["stock_count"].fillna(0)
         frame["sales_last_week"] = frame["sales_last_week"].fillna(0)
