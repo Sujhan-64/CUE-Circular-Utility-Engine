@@ -51,13 +51,58 @@ npm run dev
 
 ## What technologies are used for this project?
 
-This project is built with:
+### Tech Stack
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+#### Frontend
+
+| Technology | Version | Purpose |
+|---|---|---|
+| [React](https://react.dev/) | 18.3.1 | UI component library |
+| [TypeScript](https://www.typescriptlang.org/) | 5.8.3 | Type-safe JavaScript |
+| [Vite](https://vitejs.dev/) | 5.4.19 | Build tool & dev server (port 8080, SWC plugin) |
+| [React Router DOM](https://reactrouter.com/) | 6.30.1 | Client-side routing |
+| [TanStack React Query](https://tanstack.com/query) | 5.83.0 | Server-state management & data fetching |
+| [React Context API](https://react.dev/reference/react/createContext) | — | Client-state management (Cart, User, Wishlist) |
+| [shadcn/ui](https://ui.shadcn.com/) | — | Accessible component library built on Radix UI |
+| [Radix UI](https://www.radix-ui.com/) | — | Headless, accessible UI primitives |
+| [Tailwind CSS](https://tailwindcss.com/) | 3.4.17 | Utility-first CSS framework |
+| [React Hook Form](https://react-hook-form.com/) | 7.61.1 | Performant forms |
+| [Zod](https://zod.dev/) | — | Schema validation for forms |
+| [Recharts](https://recharts.org/) | 2.15.4 | Data visualisation / charts |
+| [Lucide React](https://lucide.dev/) | 0.462.0 | SVG icon library |
+| [Sonner](https://sonner.emilkowal.ski/) | 1.7.4 | Toast notifications |
+| [date-fns](https://date-fns.org/) | 3.6.0 | Date utility functions |
+| [Embla Carousel](https://www.embla-carousel.com/) | — | Carousel / slider component |
+
+#### Backend (Python)
+
+| Technology | Purpose |
+|---|---|
+| [FastAPI](https://fastapi.tiangolo.com/) | REST API framework |
+| [Uvicorn](https://www.uvicorn.org/) | ASGI server |
+| [pandas](https://pandas.pydata.org/) | Tabular data manipulation |
+| [NumPy](https://numpy.org/) | Numerical computing |
+| [scikit-learn](https://scikit-learn.org/) | ML models: `RandomForestClassifier`, `TfidfVectorizer`, cosine similarity |
+| [joblib](https://joblib.readthedocs.io/) | Model serialisation / persistence |
+
+#### Machine Learning
+
+| Component | Implementation |
+|---|---|
+| **Promotion Priority Model** | `RandomForestClassifier` trained on expiry urgency, stock level, and sales velocity |
+| **Recommendation Engine** | Content-based filtering using TF-IDF vectorisation + cosine similarity |
+| **Dynamic Pricing** | Rule-based discount tiers: ≤1 day → 50 %, ≤3 days → 30 %, ≤5 days → 15 % |
+
+#### Development & Tooling
+
+| Tool | Version | Purpose |
+|---|---|---|
+| [Vitest](https://vitest.dev/) | — | Unit & integration testing (jsdom environment) |
+| [Playwright](https://playwright.dev/) | 1.57.0 | End-to-end browser testing |
+| [@testing-library/react](https://testing-library.com/) | — | Component testing utilities |
+| [ESLint](https://eslint.org/) | 9.32.0 | Static analysis & code quality |
+| [PostCSS](https://postcss.org/) | — | CSS transformation (Tailwind + Autoprefixer) |
+| [Bun](https://bun.sh/) | — | Alternative package manager (lock file included) |
 
 ## How can I deploy this project?
 
