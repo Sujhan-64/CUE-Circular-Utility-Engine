@@ -91,7 +91,7 @@ npm run dev
 |---|---|
 | **Promotion Priority Model** | `RandomForestClassifier` trained on expiry urgency, stock level, and sales velocity |
 | **Recommendation Engine** | Content-based filtering using TF-IDF vectorisation + cosine similarity |
-| **Dynamic Pricing** | Rule-based discount tiers: ≤1 day → 50 %, ≤3 days → 30 %, ≤5 days → 15 % |
+| **Dynamic Pricing** | Rule-based discount tiers: ≤1 day → 50%, ≤3 days → 30%, ≤5 days → 15% |
 
 #### Development & Tooling
 
